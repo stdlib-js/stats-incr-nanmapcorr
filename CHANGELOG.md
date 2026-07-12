@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`afc9d5b`](https://github.com/stdlib-js/stdlib/commit/afc9d5b13a67ea694d225c5115d6ac3f1772caa7) - **docs:** clean-up [(#13435)](https://github.com/stdlib-js/stdlib/pull/13435) _(by Philipp Burckhardt)_
 -   [`525fcdf`](https://github.com/stdlib-js/stdlib/commit/525fcdf74b2a44a6266ee3f954e40bddfa9ab35e) - **feat(stats):** add `stats/incr/nanmapcorr` [(#6216)](https://github.com/stdlib-js/stdlib/pull/6216) _(by HO CHAK SING (Hans), Philipp Burckhardt, stdlib-bot)_
 
 </details>
